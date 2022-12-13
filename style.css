@@ -1,0 +1,100 @@
+.navbar-brand{
+    margin-right:61rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    
+    margin-right: 3rem;
+}
+
+.btn{
+    border-radius:1.25rem;
+}
+
+.sidebar {
+    height: 70%; /* Full-height: remove this if you want "auto" height */
+    width: 307px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+     z-index: 1; /*Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #f9fafb; 
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+  }
+
+  .img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    /* padding: 5px; */
+    width: 242px;
+    border: 2px solid black;
+  }
+
+  /* .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
+
+  .img.img{
+    margin:21px;
+    height: 179px;
+  }
+
+  .heading-3{
+    margin-top: 40px;
+    color: black;
+  }
+
+  .p-name{
+    color: black;
+  }
+
+  .description{
+    color: black;
+  }
+
+  .heading-2{
+    padding-left: 22%;
+    margin-top: 20px;
+  }
+
+  
+.img-c{
+    height: 170px;
+    margin: 30px;
+    padding-left: 20%;
+    width: 35%;
+}
+
+.img-c-1{
+    height: 170px;
+    margin: 20px;
+    padding-left: 20px;
+    width: 17%;
+
+}
+
+.description-2{
+    padding-left: 22%;
+    margin-bottom: 7px;
+}
+
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    /* text-align: center; */
+    /* z-index: 1; */
+  }
+
+.social{
+    padding-left:10px ;
+}
+
+
